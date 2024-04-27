@@ -1,0 +1,98 @@
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.flex2-clz.data-v-6caf19f2 {
+  border-bottom: 10rpx solid #d6d6d6;
+}
+.flex1-clz.data-v-6caf19f2 {
+  margin-left: 10rpx;
+  width: calc(100% - 10rpx - 10rpx) !important;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  margin-right: 10rpx;
+}
+.text1-clz.data-v-6caf19f2 {
+  color: #0059ff;
+}
+.text5-clz.data-v-6caf19f2 {
+  color: #0059ff;
+}
+.flex4-clz.data-v-6caf19f2 {
+  margin-left: 10rpx;
+  width: calc(100% - 10rpx - 10rpx) !important;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  margin-right: 10rpx;
+}
+.line-clz.data-v-6caf19f2 {
+  margin-left: 10rpx;
+  width: calc(100% - 10rpx - 10rpx) !important;
+  margin-top: 0rpx;
+  margin-bottom: 0rpx;
+  margin-right: 10rpx;
+}
+.flex6-clz.data-v-6caf19f2 {
+  margin-left: 10rpx;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  margin-right: 10rpx;
+}
+.text3-clz.data-v-6caf19f2 {
+  padding-top: 10rpx;
+  border-bottom-left-radius: 24rpx;
+  padding-left: 30rpx;
+  padding-bottom: 10rpx;
+  border-top-right-radius: 24rpx;
+  margin-right: 10rpx;
+  margin-left: 10rpx;
+  overflow: hidden;
+  border-top-left-radius: 24rpx;
+  margin-top: 10rpx;
+  border-bottom-right-radius: 24rpx;
+  margin-bottom: 10rpx;
+  padding-right: 30rpx;
+}
+.text8-clz.data-v-6caf19f2 {
+  padding-top: 10rpx;
+  border-bottom-left-radius: 24rpx;
+  padding-left: 30rpx;
+  padding-bottom: 10rpx;
+  border-top-right-radius: 24rpx;
+  margin-right: 10rpx;
+  margin-left: 10rpx;
+  overflow: hidden;
+  border-top-left-radius: 24rpx;
+  margin-top: 10rpx;
+  border-bottom-right-radius: 24rpx;
+  margin-bottom: 10rpx;
+  padding-right: 30rpx;
+}
+.text2-clz.data-v-6caf19f2 {
+  padding-top: 10rpx;
+  border-bottom-left-radius: 24rpx;
+  padding-left: 30rpx;
+  padding-bottom: 10rpx;
+  border-top-right-radius: 24rpx;
+  margin-right: 10rpx;
+  margin-left: 10rpx;
+  overflow: hidden;
+  border-top-left-radius: 24rpx;
+  margin-top: 10rpx;
+  border-bottom-right-radius: 24rpx;
+  margin-bottom: 10rpx;
+  padding-right: 30rpx;
+}
+.container28706.data-v-6caf19f2 {
+  padding-left: 0px;
+  padding-right: 0px;
+}

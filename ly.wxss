@@ -1,0 +1,65 @@
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.flex4-clz.data-v-b8a231a2 {
+  padding-top: 20rpx;
+  border-bottom-left-radius: 12rpx;
+  padding-left: 20rpx;
+  padding-bottom: 20rpx;
+  border-top-right-radius: 12rpx;
+  margin-right: 20rpx;
+  margin-left: 20rpx;
+  box-shadow: 0rpx 2rpx 8rpx 2px rgba(31, 31, 31, 0.14);
+  overflow: hidden;
+  width: calc(100% - 20rpx - 20rpx) !important;
+  border-top-left-radius: 12rpx;
+  margin-top: 20rpx;
+  border-bottom-right-radius: 12rpx;
+  margin-bottom: 20rpx;
+  padding-right: 20rpx;
+}
+.text1-clz.data-v-b8a231a2 {
+  padding-top: 10rpx;
+  padding-left: 0rpx;
+  padding-bottom: 10rpx;
+  border-bottom: 2rpx solid #eee;
+  padding-right: 0rpx;
+}
+.text3-clz.data-v-b8a231a2 {
+  padding-top: 10rpx;
+  padding-left: 0rpx;
+  padding-bottom: 10rpx;
+  padding-right: 0rpx;
+}
+.text7-clz.data-v-b8a231a2 {
+  background-color: #f0faf8;
+  padding-top: 10rpx;
+  border-bottom-left-radius: 12rpx;
+  overflow: hidden;
+  color: #26b3a0;
+  padding-left: 10rpx;
+  padding-bottom: 10rpx;
+  border-top-left-radius: 12rpx;
+  border-top-right-radius: 12rpx;
+  border-bottom-right-radius: 12rpx;
+  padding-right: 10rpx;
+}
+.floatbar-clz.data-v-b8a231a2 {
+  bottom: 40rpx;
+  width: 80rpx !important;
+  right: 20rpx;
+}
+.container24939.data-v-b8a231a2 {
+  padding-left: 0px;
+  padding-right: 0px;
+}

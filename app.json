@@ -1,0 +1,74 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/my/index",
+    "pages/pro/list",
+    "pages/my/ly",
+    "pages/gg/list",
+    "pages/index/index",
+    "pages/my/edit",
+    "pages/my/lyAdd",
+    "pages/gg/View",
+    "pages/my/od",
+    "pages/my/odView",
+    "pages/pro/proView",
+    "pages/pro/cart",
+    "pages/pro/pay",
+    "pages/my/sc",
+    "pages/webview"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "外卖点餐小程序",
+    "navigationBarBackgroundColor": "#21D9CF"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#08c261",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/global/grid1c.png",
+        "selectedIconPath": "static/global/icon2_lj1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/pro/list",
+        "iconPath": "static/global/grid3c.png",
+        "selectedIconPath": "static/global/grid3.png",
+        "text": "点餐"
+      },
+      {
+        "pagePath": "pages/pro/cart",
+        "iconPath": "static/global/icon1_xsqg2.png",
+        "selectedIconPath": "static/global/icon1_xsqg.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/my/ly",
+        "iconPath": "static/global/icon1_pl2.png",
+        "selectedIconPath": "static/global/icon1_pl.png",
+        "text": "留言反馈"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "iconPath": "static/global/icon2_xm2.png",
+        "selectedIconPath": "static/global/icon2_xm.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "__usePrivacyCheck__": true,
+  "permission": {
+    "scope.userLocation": {
+      "desc": "地理位置信息将用于标记位置"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation",
+    "chooseLocation"
+  ],
+  "usingComponents": {}
+}

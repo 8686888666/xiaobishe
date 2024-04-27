@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "购物车",
+  "navigationBarBackgroundColor": "#21D9CF",
+  "usingComponents": {
+    "diy-stepper": "../../components/diy-stepper/diy-stepper"
+  }
+}
